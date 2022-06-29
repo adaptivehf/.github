@@ -1,5 +1,5 @@
 <div align="center">
   
   # Adaptive
-  Stability & sustainability
+  Stability & Sustainability
 </div>
